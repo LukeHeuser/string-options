@@ -36,6 +36,7 @@ public class Main {
 
     }
 
+
     public static void printInformation(String string) {
         System.out.println("String = " + string);
         System.out.println("length = " + string.length());
